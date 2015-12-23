@@ -1,0 +1,28 @@
+{
+    "name": "nestable",
+    "version": "1.0.0",
+    "description": "Drag & drop hierarchical list with mouse and touch compatibility (jQuery plugin)",
+    "main": "jquery.nestable.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://ilmente@github.com/ilmente/Nestable.git"
+    },
+    "keywords": [
+        "jquery",
+        "nestable",
+        "plugin"
+    ],
+    "author": {
+        "name": "David Bushell",
+        "url": "http://dbushell.com/"
+    },
+    "contributors": [{
+        "name": "Alessandro Bellini",
+        "url": "http://www.ilmente.it/"
+    }],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ilmente/Nestable/issues"
+    },
+    "homepage": "https://github.com/ilmente/Nestable#readme"
+}
