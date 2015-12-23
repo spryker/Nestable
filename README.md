@@ -1,8 +1,13 @@
 # nestable (jQuery plugin)
 This repo is just a fork of [dbushell/Nestable](https://github.com/dbushell/Nestable) jQuery plugin. 
-I just extended the original repo adding a license file and providing compatibility for **npm** with a `package.json`.
 
-## Author
+# Changes
+- MIT license file added
+- **npm** compatibility provided (`package.json`)
+- `window.jQuery` changed in `jQuery`
+- `Zapto` compatibility removed
+
+## Original repo author
 David Bushell 
 
 - site: [http://dbushell.com](http://dbushell.com/)
