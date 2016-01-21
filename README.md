@@ -1,5 +1,6 @@
 # nestable (jQuery plugin)
 This repo is just a fork of [dbushell/Nestable](https://github.com/dbushell/Nestable) jQuery plugin. 
+Go to the original repo to see some example.
 
 # Changes
 - MIT license file added
